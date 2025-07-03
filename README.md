@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Hi, I am sodaball!&center=true&size=27)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi,%20I%20am%20sodaball!&center=true&size=27)
+
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sodaball" /> </div>
